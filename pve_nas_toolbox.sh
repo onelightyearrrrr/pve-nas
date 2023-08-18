@@ -7,7 +7,7 @@
 #---- Bash command to run script ---------------------------------------------------
 
 #---- Source Github
-# bash -c "$(wget -qLO - https://raw.githubusercontent.com/ahuacate/pve-nas/main/pve_nas_toolbox.sh)"
+# bash -c "$(wget -qLO - https://raw.githubusercontent.com/onelightyearrrrr/pve-nas/main/pve_nas_toolbox.sh)"
 
 #---- Source local Git
 # /mnt/pve/nas-01-git/ahuacate/pve-nas/pve_nas_toolbox.sh
@@ -18,7 +18,7 @@
 # Git server
 GIT_SERVER='https://github.com'
 # Git user
-GIT_USER='ahuacate'
+GIT_USER='onelightyearrrrr'
 # Git repository
 GIT_REPO='pve-nas'
 # Git branch
